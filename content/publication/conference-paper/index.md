@@ -32,16 +32,16 @@ url_video: https://youtube.com
 title: "Enhancing Cybersecurity Investment with FAIR-ROSI: A Responsible
   Cybersecurity Approach to Digital Society"
 doi: ""
-featured: true
+featured: false
 tags: []
 projects: []
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2013-07-01T00:00:00Z
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/HugoBlox/hugo-blox-builder
 ---
