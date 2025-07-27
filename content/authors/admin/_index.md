@@ -1,6 +1,7 @@
 ---
 title: Dr Ying He
 role: Senior Lecturer in Computer Science
+avatar_filename: yinghe_qmul_ac_uk.jpg
 bio: School of Electronic Engineering and Computer Science Queen Mary University
   of London
 interests:
