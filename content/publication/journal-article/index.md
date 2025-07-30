@@ -1,49 +1,48 @@
+
 ---
-abstract: The increasing sophistication of cyberattacks and the evolution of
-  security risks make it challenging for organizations to understand their
-  impact on businesses. The habitual reliance on the judgment of cyber security
-  experts and communication gaps between cyber security team and board members,
-  responsible for making strategic cyber security investment decisions further
-  weaken organization's capability to respond to cyber threats. Existing
-  research lacks a transparent approach to quantify security risks and their
-  impact on businesses. This paper introduces a novel CYSEM that express
-  security risk in financial terms, through integrating Cyber Threat
-  Intelligence (CTI) with the Factor Analysis of Information Risk (FAIR) model,
-  elaborated with cyber security cost typologies. CYSEM facilitates
-  communication among multi-stakeholders and improves transparency and quality
-  of investment decision-making at the strategic level. We evaluate the CYSEM
-  using a case study, which has showed its effectiveness in understanding the
-  impact of cyber threat from an economics perspective.
-slides: example
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+abstract: Investment in cybersecurity is critical to protect information system
+  security, preserve organizational interests, and fulfil social
+  responsibilities. However, due to the lack of a transparent process, investors
+  often struggle to assess the effectiveness of their investments. Traditional
+  return on security investment (ROSI) can be considered as an economic
+  indicator which reflects investment efficiency, but it often emphasizes
+  investment costs and anticipated returns while overlooks cybersecurity related
+  metrics. This paper proposes the FAIR-ROSI model that integrates five
+  qualitative and quantitative cybersecurity metrics with the Factor Analysis of
+  Information Risk (FAIR) model. It combines practical qualitative and
+  quantitative indicators to enhance the granularity of the traditional ROSI
+  model. We then use a case study to evaluate the FAIR-ROSI model. The results
+  from pre and post control measures shows a narrow margin between actual and
+  projected loss values and a significantly higher ROI compared to the total
+  security expenditure.
+slides: ""
+url_pdf: "https://link.springer.com/content/pdf/10.1007/s10796-025-10625-y.pdf"
 publication_types:
-  - paper-conference
+  - article-journal
 authors:
-  - Tong Xin
   - Ying He
-  - Efpraxia D. Zamani
-  - Cunjin Luo
+  - Tong Xin & Cunjin Luo
 author_notes: []
 publication: ""
 summary: ""
-url_dataset: ""
+url_dataset: 
 url_project: ""
 publication_short: ""
-url_source: ""
-url_video: ""
-title: "Poster: Cyber Security Economics Model (CYSEM)"
+url_source: 
+url_video: 
+title: "Enhancing Cybersecurity Investment with FAIR-ROSI: A Responsible
+  Cybersecurity Approach to Digital Society"
 doi: ""
 featured: false
-tags:
-  - Source Themes
+tags: []
 projects: []
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2015-09-01T00:00:00Z
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
-url_code: https://github.com/HugoBlox/hugo-blox-builder
+url_code: 
 ---
